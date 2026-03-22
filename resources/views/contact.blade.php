@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Contact Us</h1>
+    <h1>Contact Page</h1>
     <p>This is the contact page.</p>
 </body>
 </html>
